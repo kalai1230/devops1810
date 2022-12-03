@@ -1,4 +1,8 @@
 i am in file2 branch2
 new change
 haianother change
+<<<<<<< HEAD
 merge conflict 3
+=======
+merge conflict2
+>>>>>>> branch2
